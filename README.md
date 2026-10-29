@@ -1,4 +1,4 @@
-<h3>Hey, this is Muneeb 👋</h3>
+<h3>Hi, this is Muneeb 👋</h3>
 
 <br>
 
