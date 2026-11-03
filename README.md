@@ -6,5 +6,6 @@
 <p>i love math, problem solving, and exploring new technologies.</p>
 
 <p>
+  <a href="https://dangerousenigma1827.github.io/Portfolio/">portfolio</a>
   <a href="https://www.linkedin.com/in/muneeb-syed-17b407377/">linkedin</a>
 </p>
